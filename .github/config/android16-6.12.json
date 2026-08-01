@@ -2,16 +2,8 @@
   "version": "android16-6.12",
   "include": [
     {
-      "sublevel": "23",
-      "date": "2025-06"
-    },
-    {
       "sublevel": "30",
       "date": "2025-07"
-    },
-    {
-      "sublevel": "38",
-      "date": "2025-08"
     },
     {
       "sublevel": "38",
