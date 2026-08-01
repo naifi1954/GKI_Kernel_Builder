@@ -2,30 +2,6 @@
   "version": "android15-6.6",
   "include": [
     {
-      "sublevel": "98",
-      "date": "2025-08"
-    },
-    {
-      "sublevel": "98",
-      "date": "2025-09"
-    },
-    {
-      "sublevel": "102",
-      "date": "2025-10"
-    },
-    {
-      "sublevel": "118",
-      "date": "2026-01"
-    },
-    {
-      "sublevel": "127",
-      "date": "2026-04"
-    },
-    {
-      "sublevel": "139",
-      "date": "2026-07"
-    },
-    {
       "sublevel": "X",
       "date": "lts"
     }
