@@ -2,58 +2,6 @@
   "version": "android12-5.10",
   "include": [
     {
-      "sublevel": "198",
-      "date": "2023-11"
-    },
-    {
-      "sublevel": "198",
-      "date": "2024-01"
-    },
-    {
-      "sublevel": "205",
-      "date": "2024-03"
-    },
-    {
-      "sublevel": "209",
-      "date": "2024-05"
-    },
-    {
-      "sublevel": "218",
-      "date": "2024-08"
-    },
-    {
-      "sublevel": "226",
-      "date": "2024-11"
-    },
-    {
-      "sublevel": "233",
-      "date": "2025-02"
-    },
-    {
-      "sublevel": "236",
-      "date": "2025-05"
-    },
-    {
-      "sublevel": "237",
-      "date": "2025-06"
-    },
-    {
-      "sublevel": "240",
-      "date": "2025-09"
-    },
-    {
-      "sublevel": "246",
-      "date": "2025-12"
-    },
-    {
-      "sublevel": "252",
-      "date": "2026-04"
-    },
-    {
-      "sublevel": "257",
-      "date": "2026-07"
-    },
-    {
       "sublevel": "X",
       "date": "lts"
     }
