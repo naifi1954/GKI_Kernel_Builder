@@ -2,30 +2,6 @@
   "version": "android14-5.15",
   "include": [
     {
-      "sublevel": "178",
-      "date": "2025-03"
-    },
-    {
-      "sublevel": "180",
-      "date": "2025-05"
-    },
-    {
-      "sublevel": "185",
-      "date": "2025-07"
-    },
-    {
-      "sublevel": "192",
-      "date": "2025-10"
-    },
-    {
-      "sublevel": "196",
-      "date": "2026-01"
-    },
-    {
-      "sublevel": "202",
-      "date": "2026-04"
-    },
-    {
       "sublevel": "X",
       "date": "lts"
     }
